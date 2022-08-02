@@ -11,6 +11,7 @@
 		AAE7B4E62898DB240006438C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE7B4E52898DB240006438C /* ContentView.swift */; };
 		AAE7B4E82898DB250006438C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAE7B4E72898DB250006438C /* Assets.xcassets */; };
 		AAE7B4EB2898DB250006438C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAE7B4EA2898DB250006438C /* Preview Assets.xcassets */; };
+		AAE7B4F22898DCE20006438C /* ModificaEstilo.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE7B4F12898DCE20006438C /* ModificaEstilo.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AAE7B4E52898DB240006438C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AAE7B4E72898DB250006438C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAE7B4EA2898DB250006438C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AAE7B4F12898DCE20006438C /* ModificaEstilo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModificaEstilo.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 				AAE7B4E52898DB240006438C /* ContentView.swift */,
 				AAE7B4E72898DB250006438C /* Assets.xcassets */,
 				AAE7B4E92898DB250006438C /* Preview Content */,
+				AAE7B4F12898DCE20006438C /* ModificaEstilo.swift */,
 			);
 			path = Modificadores;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				AAE7B4E62898DB240006438C /* ContentView.swift in Sources */,
+				AAE7B4F22898DCE20006438C /* ModificaEstilo.swift in Sources */,
 				AAE7B4E42898DB240006438C /* ModificadoresApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
